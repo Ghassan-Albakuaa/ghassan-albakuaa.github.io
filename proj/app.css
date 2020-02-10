@@ -1,0 +1,77 @@
+html{
+    height: 100%;
+}
+body{
+     color: white;
+   font-family: Lato;
+    
+   
+        background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)), url(../img/gh6.jpg);
+   
+     background-size: cover;
+    background-position: center;
+   
+    background-attachment: fixed;
+}
+#content
+{
+    text-align: center;
+    padding: 13%;
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1),
+}
+h1{
+   font-weight: 700;
+    font-size: 5em;
+}
+hr{
+    width: 400px;
+    border-top:  1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0,2);
+}
+.myid{
+    color: greenyellow;
+    
+}
+.myid2{
+    color: greenyellow;
+     font-family: Lato;
+}
+.myid3{
+    color: white;
+     font-family: Lato;
+}
+.letter
+{
+    letter-spacing: 3px;
+     text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1),
+}
+    
+}
+.cent{
+    padding-left:28%;
+    align-content: center;
+}
+.form-group{
+    color: white;
+    font-size: 15px;
+}
+.footer2{
+   width: 100%;
+   margin-bottom: 20px;
+    padding: 0px;
+    text-align: center;
+    color: white;
+     letter-spacing: 5px;
+    font-size: 15px;
+     background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5));
+    background-position: center;
+    backface-visibility: 
+}
+span-1-of-2
+{
+    padding-top: 10px;
+}
